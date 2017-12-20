@@ -1,5 +1,7 @@
 # Unity3d_5-Snake
 
+Игра сделана по уроку
+https://www.youtube.com/watch?v=WbyA_exPygY
 
 ![image](https://user-images.githubusercontent.com/11897341/34212264-d935e7f6-e5ac-11e7-8e87-117ae39d3f0c.png)
 
